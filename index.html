@@ -1,0 +1,517 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chiyori - Subtitle Editor</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800&family=Poppins:wght@700;800;900&family=Six+Caps&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <nav class="navbar">
+            <ul class="nav-links">
+                <li><a href="#home" class="active" data-i18n="navHome">Home</a></li>
+                <li><a href="#sobre" data-i18n="navSobre">Sobre</a></li>
+                <li><a href="#portfolio" data-i18n="navPortfolio">Portfólio</a></li>
+                <li><a href="#servicos" data-i18n="navServicos">Serviços</a></li>
+                <li><a href="#contato" data-i18n="navContato">Contato</a></li>
+            </ul>
+                <div class="lang-toggle" id="lang-btn">
+                    <span id="lang-text">PT</span>
+                </div>
+        </nav>
+    </header>
+    
+        <!-- pag 1 -->
+
+<main id="home" class="hero-section">
+        <div class="hero-container">
+            
+            <div class="column left-col">
+                <p class="subtitle-label" data-i18n="heroLabel">S U B T I T L E &nbsp; E D I T O R</p>
+                <h1 class="main-title" data-i18n="heroTitle">CHIYORI</h1>
+                <h2 class="description" data-i18n="heroDesc">
+                    MÚSICA GEEK, TRANSCREVIDA<br>COM CARINHO
+                </h2>
+                <p class="highlights" data-i18n="heroHighlights">Carinho &bull; Ritmo &bull; Precisão</p>
+                
+                <a href="#portfolio" class="cta-button" data-i18n="heroCta">
+                    VER PROJETOS <i class="fa-solid fa-arrow-right"></i>
+                </a>
+            </div>
+
+            <div class="column center-col">
+            </div>
+
+            <div class="column right-col">
+                <p class="amy-title">I LOVE AMY</p>
+                
+                <div class="social-icons">
+                    <a href="https://www.youtube.com/channel/UCRMzyqUUE9RDFqiQaT62cgw" 
+                       target="_blank" 
+                       rel="noopener noreferrer" 
+                       aria-label="Canal do YouTube de Chiyori">
+                        <i class="fa-brands fa-youtube"></i>
+                    </a>
+
+                    <a href="#" 
+                       class="discord-link" 
+                       onclick="copiarDiscord(); return false;" 
+                       aria-label="Copiar usuário do Discord">
+                        <i class="fa-brands fa-discord"></i>
+                    </a>
+
+                    <a href="https://x.com/Chiyoriiyy" 
+                       class="x-icon" 
+                       target="_blank" 
+                       rel="noopener noreferrer" 
+                       aria-label="Perfil do Twitter / X">
+                        <svg viewBox="0 0 1200 1227" fill="currentColor" width="1em" height="1em">
+                            <path d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z"/>
+                        </svg>
+                    </a>
+
+                    <a href="https://www.roblox.com/pt/users/371079353/profile" 
+                       class="roblox-icon" 
+                       target="_blank" 
+                       rel="noopener noreferrer" 
+                       aria-label="Perfil do Roblox">
+                        <svg viewBox="0 0 24 24" fill="currentColor" width="1em" height="1em">
+                            <path d="M4.9 0L24 4.9L19.1 24L0 19.1L4.9 0ZM14.3 9.4L9.6 8.2L8.4 12.9L13.1 14.1L14.3 9.4Z"/>
+                        </svg>
+                    </a>
+                </div>
+                
+                <p class="japanese-text">エイミーを愛してる</p>
+                
+                <div class="legendas-recentes-container">
+                    <h3 class="recentes-title" data-i18n="recentesTitle">Legendas Recentes</h3>
+                    
+                    <div class="carousel-wrapper">
+                        <button class="carousel-btn" id="prev-btn">
+                            <i class="fa-solid fa-chevron-left"></i>
+                        </button>
+                        
+                        <div class="carousel-view">
+                            <div class="recentes-carrossel" id="youtube-carousel">
+                                <span style="color: var(--primary-blue); font-weight: 600; text-align: center; width: 100%;">Carregando...</span>
+                            </div>
+                        </div>
+                        
+                        <button class="carousel-btn" id="next-btn">
+                            <i class="fa-solid fa-chevron-right"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </main>
+
+    </main>
+
+            <!-- pag 2 -->
+
+    <section id="sobre" class="sobre-section">
+        <div class="sobre-container">
+            
+            <div class="sobre-col sobre-left">
+                <p class="sobre-label" data-i18n="sobreLabel">S O B R E</p>
+                <h2 class="sobre-title" data-i18n="sobreTitle">Pode me<br>chamar de <span class="text-blue">Yori</span></h2>
+                <div class="title-line"></div>
+                
+                <div class="about-card" data-i18n="aboutCard">
+                    <p>Oii, bom dia, boa tarde ou uma boa noite! Podem me chamar de <strong>Yori</strong>, ou quaisquer apelidos e pronomes que preferirem.<br>Gosto de várias coisinhas — se quiser conversar, pode chamar!</p>
+                    <p>Faço <strong>legendas</strong> personalizadas no <strong>YouTube</strong>, com bastante carinho.</p>
+                    <p>Costumo ficar mais ativo no <strong>Discord</strong></p>
+                </div>
+
+                <div class="left-decor">
+                    <span class="decor-number">01</span>
+                    <span class="decor-line"></span>
+                    <span class="decor-bars">| | | | |</span>
+                </div>
+            </div>
+
+            <div class="sobre-col sobre-center"></div>
+
+            <div class="sobre-col sobre-right">
+                
+                <div class="top-decor">
+                    <div class="top-decor-text">
+                        <p>i here for<br>the music.</p>
+                    </div>
+                    <div class="top-decor-bars">
+                        <span>01</span> | | | | |
+                    </div>
+                </div>
+
+                <div class="info-card">
+                    <div class="info-header">
+                        <span data-i18n="atuacaoLabel">ATUAÇÃO</span>
+                        <i class="fa-solid fa-pen-nib"></i>
+                    </div>
+                    <p class="info-value">Legendista / Subtitle Editor</p>
+                </div>
+
+                <div class="info-card">
+                    <div class="info-header">
+                        <span data-i18n="nichoLabel">NICHO</span>
+                        <i class="fa-solid fa-headphones"></i>
+                    </div>
+                    <p class="info-value" data-i18n="nichoValue">Música geek & anime</p>
+                </div>
+
+                <div class="info-card">
+                    <div class="info-header">
+                        <span data-i18n="sempreAqui">Sempre por aqui</span>
+                        <i class="fa-regular fa-comment"></i>
+                    </div>
+                    <p class="info-value">Discord</p>
+                </div>
+
+                <div class="bottom-decor-text">
+                    <p>led by a mysterious voice<br>while on a midinight walk.</p>
+                </div>
+
+                <div class="bottom-pagination">
+                    <span class="page-line"></span>
+                    <span class="page-dot"></span>
+                    <span class="page-dot"></span>
+                    <span class="page-dot"></span>
+                </div>
+                
+            </div>
+            
+        </div>
+    </section>
+
+            <!-- Pag 3 -->
+    
+    <section id="portfolio" class="portfolio-section">
+
+        <div class="portfolio-panel">
+            <div class="portfolio-header">
+                <h2 class="portfolio-title" data-i18n="portTitle">Portofólio</h2>
+                <p class="portfolio-description" data-i18n="portDesc">
+                    Alguns exemplos de clipes que já
+                    legendei — clique para assistir.
+                </p>
+                <div class="portfolio-divider"></div>
+            </div>
+
+            <div class="left-decor portfolio-decor">
+                <span class="decor-number">02</span>
+                <span class="decor-line"></span>
+                <span class="decor-bars">| | | | |</span>
+            </div>
+        </div>
+
+        <div class="portfolio-preview"></div>
+
+      <div class="portfolio-cards">
+            
+        <!-- Card 1 -->
+            <a href="https://www.youtube.com/watch?v=jyry5KgTbL4&list=RDjyry5KgTbL4&start_radio=1" id="link-clip-1" class="portfolio-card" target="_blank">
+                <img src="img/vid1.jpg" id="img-clip-1" class="card-img" alt="Capa">
+                <div class="card-info">
+                    <h3 class="song-title" id="title-clip-1" data-i18n="portClip1Title">Código Corrompido</h3>
+                    <p class="song-details" id="info-clip-1" data-i18n="portClip1Info">Yunotai | 2025</p>
+                </div>
+            </a>
+
+            <!-- Card 2 -->
+            <a href="https://www.youtube.com/watch?v=ORs1RSCscJ8" id="link-clip-2" class="portfolio-card" target="_blank">
+                <img src="img/vid2.jpg" id="img-clip-2" class="card-img" alt="Capa">
+                <div class="card-info">
+                    <h3 class="song-title" id="title-clip-2" data-i18n="portClip2Title">Rota Genocida</h3>
+                    <p class="song-details" id="info-clip-2" data-i18n="portClip2Info">LQX | 2026</p>
+                </div>
+            </a>
+
+            <!-- Card 3 -->
+            <a href="https://www.youtube.com/watch?v=ol3QSRJ2IdY" id="link-clip-3" class="portfolio-card" target="_blank">
+                <img src="img/vid3.jpg" id="img-clip-3" class="card-img" alt="Capa">
+                <div class="card-info">
+                    <h3 class="song-title" id="title-clip-3" data-i18n="portClip3Title">Coração da Montanha</h3>
+                    <p class="song-details" id="info-clip-3" data-i18n="portClip3Info">Komorii | 2026</p>
+                </div>
+            </a>
+
+    </a>
+        <div class="portfolio-nav">
+            <span class="page-line"></span>
+            <span class="page-dot"></span>
+            <span class="page-dot"></span>
+            <span class="page-dot"></span>
+        </div>
+
+    </section>
+
+        <!-- pag 4 -->
+
+    <section id="servicos" class="servicos-section">
+        <div class="servicos-container">
+            
+            <div class="servicos-col servicos-left">
+                <p class="sobre-label" data-i18n="servLabel">S E R V I Ç O S</p> <h2 class="sobre-title" data-i18n="servTitle">Tabela de<br><span class="text-blue">preços</span></h2>
+                <div class="title-line"></div>
+                
+                <div class="regras-box">
+                    <div class="regra-item" data-i18n="regra1">
+                        <strong>Como funciona</strong>
+                        <p>Vídeos acima de <strong>5 minutos</strong>: +R$5 por<br>minuto adicional</p>
+                    </div>
+
+                    <div class="regra-item" data-i18n="regra2">
+                        <p><strong>Efeitos básicos:</strong> Fade ou <strong>Karaokê</strong></p>
+                    </div>
+
+                    <div class="regra-item" data-i18n="regra3">
+                        <p><strong>Efeitos avançados:</strong> Todos que sei<br>+ qualquer um que você quiser!</p>
+                    </div>
+
+                    <div class="regra-item" data-i18n="regra4">
+                        <p>Na compra da <strong>Avançada</strong>, a <strong>Básica</strong> já<br>vem incluída automaticamente</p>
+                    </div>
+
+                    <div class="regra-item" data-i18n="regra5">
+                        <p>Valores sujeitos a alterações — sempre<br>aberto para dúvidas e negociações!</p>
+                    </div>
+                </div>
+
+                <div class="left-decor">
+                    <span class="decor-number">03</span>
+                    <span class="decor-line"></span>
+                    <span class="decor-bars">| | | | |</span>
+                </div>
+            </div>
+
+            <div class="servicos-col servicos-right">
+                
+            <div class="pricing-grid">
+                
+            
+                <div class="pricing-card card-basica">
+                    <h3 data-i18n="cardBasicaTitle">Legenda Básica</h3>
+                    <p class="price" data-i18n="priceBasica">R$ 20</p>
+                    <ul>
+                        <li data-i18n="cardBasicaItem1">Legenda cronometrada</li>
+                        <li data-i18n="cardBasicaItem2">Efeito Fade ou Karaokê básico</li>
+                    </ul>
+                </div>
+
+                <div class="pricing-card card-avancada highlight">
+                    <div class="badge-destaque" data-i18n="badgeDestaque">MAIS PEDIDA</div>
+                    <h3 data-i18n="cardAvancadaTitle">Legenda Avançada</h3>
+                    <p class="price" data-i18n="priceAvancada">R$ 50</p>
+                    <ul>
+                        <li data-i18n="cardBasicaItem1">Tudo da Básica incluso</li>
+                        <li data-i18n="cardAvancadaItem2">Efeitos personalizados</li>
+                        <li data-i18n="cardAvancadaItem3">Estilização visual única pro clipe</li>
+                    </ul>
+                </div>
+
+                <div class="pricing-card card-fixo">
+                    <h3 data-i18n="cardFixoTitle">Fixo</h3>
+                    <p class="price" data-i18n="priceFixo">R$ 35</p>
+                    <ul>
+                        <li data-i18n="cardFixoItem1">Serviços fixo para canal</li>
+                        <li data-i18n="cardFixoItem2">Legendas recorrentes</li>
+                        <li data-i18n="cardFixoItem3">Valor fixo mensal</li>
+                    </ul>
+                </div>
+
+                <img src="img/fotinha1.png" class="servicos-img" alt="Personagens">
+
+            </div>
+
+                <div class="bottom-pagination">
+                    <span class="page-line"></span>
+                    <span class="page-dot"></span>
+                    <span class="page-dot"></span>
+                    <span class="page-dot"></span>
+                </div>
+
+            </div>
+            
+        </div>
+    </section>
+
+            <!-- pag 5 -->
+
+<section id="contato" class="contato-section">
+
+    <div class="contato-container">
+
+        <!-- coluna esq -->
+
+        <div class="contato-left">
+
+            <p class="sobre-label" data-i18n="contLabel">C O N T A T O</p>
+
+            <h2 class="sobre-title" data-i18n="contTitle">
+                Vamos trabalhar<br>
+                <span class="text-blue">juntos?</span>
+            </h2>
+
+            <div class="title-line"></div>
+
+            <p class="contato-text" data-i18n="contText">
+                Tem um projeto em mente? Me manda uma mensagem
+                e vamos conversar sobre como posso te ajudar!
+            </p>
+
+            <div class="contact-links">
+
+                <!-- X / Twitter -->
+                <a href="https://x.com/Chiyoriiyy" class="contact-item" target="_blank" rel="noopener noreferrer">
+
+                    <div class="contact-icon">
+
+                        <svg viewBox="0 0 1200 1227" fill="currentColor">
+
+                            <path d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z"/>
+
+                        </svg>
+
+                    </div>
+
+                    <div class="contact-info">
+                        <strong>Twitter</strong>
+                        <span>@Chiyoriiyy</span>
+                    </div>
+
+                </a>
+
+                <!-- Youtube -->
+
+               <a href="https://www.youtube.com/channel/UCRMzyqUUE9RDFqiQaT62cgw" class="contact-item" target="_blank" rel="noopener noreferrer">
+
+                    <div class="contact-icon">
+
+                        <i class="fa-brands fa-youtube"></i>
+
+                    </div>
+
+                    <div class="contact-info">
+                        <strong>Youtube</strong>
+                        <span>@Chiyoriiyy</span>
+                    </div>
+
+                </a>
+
+                <!-- Discord -->
+
+                <a href="#" class="contact-item" onclick="copiarDiscord(); return false;">
+
+                    <div class="contact-icon">
+                        <i class="fa-brands fa-discord"></i>
+                    </div>
+
+                    <div class="contact-info">
+                        <strong>Discord</strong>
+                        <span>@r3dr0</span>
+                    </div>
+
+                </a>
+
+            </div>
+
+            <div class="left-decor">
+
+                <span class="decor-number">04</span>
+
+                <span class="decor-line"></span>
+
+                <span class="decor-bars">| | | | |</span>
+
+            </div>
+
+        </div>
+
+         <img src="img/fotinha2.png"
+     class="contato-img"
+     alt="Personagens"
+     draggable="false">
+
+        <!-- coluna dir -->
+
+        <div class="contato-right">
+
+
+                <div class="contact-form">
+                    <img src="img/thisisme.jpg" class="contact-replacement-img" alt="Imagem de Contato">
+                </div>
+
+            <div class="bottom-pagination">
+
+                <span class="page-line"></span>
+
+                <span class="page-dot"></span>
+
+                <span class="page-dot"></span>
+
+                <span class="page-dot"></span>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- Player flutuante -->
+
+<div class="mini-player-widget">
+    <div class="player-header">Yori's playlist</div>
+    <div class="player-body">
+
+        <div class="vinyl-container" id="player-vinyl">
+            <div class="vinyl-grooves">
+                <img src="" id="player-cover" alt="Capa da música">
+            </div>
+            <div class="vinyl-center-dot"></div>
+        </div>
+
+        <div class="player-controls-box">
+            <div class="music-info-row">
+                <div class="music-info">
+                    <span id="player-title">Loading...</span>
+                    <span id="player-author">Enjoy a little song!</span>
+                </div>
+                <button id="pl-mute" class="mute-btn"><i class="fa-solid fa-volume-high"></i></button>
+            </div>
+            
+            <div class="progress-bar-container">
+                <input type="range" id="player-progress" min="0" max="100" value="0">
+            </div>
+            
+            <div class="control-buttons">
+                <button id="pl-prev"><i class="fa-solid fa-backward"></i></button>
+                <button id="pl-play" class="play-btn"><i class="fa-solid fa-play"></i></button>
+                <button id="pl-next"><i class="fa-solid fa-forward"></i></button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="youtube-hidden-player" class="invisible-yt-player"></div>
+    
+<footer class="site-footer">
+    <div class="footer-content" data-i18n="footerContent">
+        𓆩༺ Feito por Meiko & Chiyori ༻𓆪
+    </div>
+
+        <script src="script.js"></script>
+    </body>
+</html>
