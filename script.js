@@ -1,1 +1,539 @@
-const _0x230af7=_0x1296;(function(_0x43e393,_0x4b06df){const _0x435490=_0x1296,_0x5a94ef=_0x43e393();while(!![]){try{const _0x321b8d=parseInt(_0x435490(0x1af))/0x1+parseInt(_0x435490(0xe4))/0x2+parseInt(_0x435490(0x168))/0x3*(-parseInt(_0x435490(0x131))/0x4)+parseInt(_0x435490(0x184))/0x5+parseInt(_0x435490(0x1a0))/0x6+parseInt(_0x435490(0x196))/0x7*(-parseInt(_0x435490(0x149))/0x8)+parseInt(_0x435490(0x194))/0x9*(-parseInt(_0x435490(0x167))/0xa);if(_0x321b8d===_0x4b06df)break;else _0x5a94ef['push'](_0x5a94ef['shift']());}catch(_0x319a69){_0x5a94ef['push'](_0x5a94ef['shift']());}}}(_0x3cc5,0xcde45));function copiarDiscord(){const _0x8da3eb=_0x1296;navigator['clipboard']['writeText'](_0x8da3eb(0x197))[_0x8da3eb(0x16e)](()=>{const _0x53a0d6=_0x8da3eb;alert(_0x53a0d6(0x1b0));})['catch'](()=>{const _0x321082=_0x8da3eb;alert(_0x321082(0x18b));});}const tag=document['createElement']('script');tag['src']=_0x230af7(0x1b2);const firstScriptTag=document[_0x230af7(0x163)](_0x230af7(0x129))[0x0];firstScriptTag[_0x230af7(0x17b)][_0x230af7(0x142)](tag,firstScriptTag);let ytPlayer,playlistVideos=[],isPlaying=![],updateInterval,playlistCarregadaNoPlayer=![];const apiKey=_0x230af7(0xf2),playlistId=_0x230af7(0xf1),playlistUrl='https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=50&playlistId='+playlistId+'&key='+apiKey;fetch(playlistUrl);function processarLoteEVersaSeHaMais(_0x1adf96){const _0x1d616e=_0x230af7;if(_0x1adf96[_0x1d616e(0xf8)]&&_0x1adf96[_0x1d616e(0xf8)][_0x1d616e(0x18a)]>0x0){const _0x4e1fee=_0x1adf96[_0x1d616e(0xf8)][_0x1d616e(0x15f)](_0x4d6c27=>_0x4d6c27[_0x1d616e(0x1b1)]&&_0x4d6c27[_0x1d616e(0x1b1)]['resourceId']&&_0x4d6c27[_0x1d616e(0x1b1)]['title']!==_0x1d616e(0x1a3))['map'](_0x4f5437=>({'id':_0x4f5437[_0x1d616e(0x1b1)][_0x1d616e(0x13b)]['videoId'],'title':_0x4f5437[_0x1d616e(0x1b1)][_0x1d616e(0x19b)],'thumbnail':_0x4f5437[_0x1d616e(0x1b1)][_0x1d616e(0x144)]&&_0x4f5437['snippet'][_0x1d616e(0x144)][_0x1d616e(0x1aa)]?_0x4f5437[_0x1d616e(0x1b1)][_0x1d616e(0x144)]['high'][_0x1d616e(0x106)]:_0x4f5437[_0x1d616e(0x1b1)][_0x1d616e(0x144)]&&_0x4f5437['snippet'][_0x1d616e(0x144)][_0x1d616e(0xf7)]?_0x4f5437[_0x1d616e(0x1b1)][_0x1d616e(0x144)][_0x1d616e(0xf7)][_0x1d616e(0x106)]:''}));return playlistVideos=playlistVideos['concat'](_0x4e1fee),_0x1adf96['nextPageToken']||null;}return null;}function _0x3cc5(){const _0x17fb05=['rachie\x20🎀💌\x20|\x202026','Código\x20Corrompido','playing','error','<p><strong>Efeitos\x20básicos:</strong>\x20Fade\x20ou\x20<strong>Karaokê</strong></p>','active','Pricing<br><span\x20class=\x22text-blue\x22>Table</span>','PlayerState','player-vinyl','parentNode','translateX(-','Komorii\x20|\x202026','warn','Efeitos\x20personalizados','Fixo','getAttribute','unMute','<span\x20style=\x22color:\x20red;\x22>Erro\x20ao\x20carregar\x20vídeos.</span>','6266350gHXkQy','Rota\x20Genocida','Serviços\x20fixo\x20para\x20canal','link-clip-2','MÚSICA\x20GEEK,\x20TRANSCREVIDA<br>COM\x20CARINHO','Legenda\x20Básica','length','Não\x20foi\x20possível\x20copiar\x20automaticamente.\x0a\x0aMeu\x20usuário\x20é:\x20r3dr0','R$\x2020','loadPlaylist','Alguns\x20exemplos\x20de\x20clipes\x20que\x20já\x20legendei\x20—\x20clique\x20para\x20assistir.','https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=','Carinho\x20•\x20Ritmo\x20•\x20Precisão','Portfólio','style','navbar-bg-blur','5391PfPpoV','offsetTop','1792679wvldcf','r3dr0','click','Part-time\x20Idol\x20Declaration','GEEK\x20MUSIC,\x20TRANSCRIBED<br>WITH\x20CARE','title','previousVideo','R$\x2035','classList','Legendas\x20Recentes','3474270QERGid','player-title','S\x20E\x20R\x20V\x20I\x20Ç\x20O\x20S','Deleted\x20video','scroll','offsetHeight','You\x20can<br>call\x20me\x20<span\x20class=\x22text-blue\x22>Chiyo</span>','https://www.youtube.com/watch?v=DSBWmWZKyc0','querySelectorAll','&playlistId=','high','img-clip-1','getDuration','lang-btn','<p>Na\x20compra\x20da\x20<strong>Avançada</strong>,\x20a\x20<strong>Básica</strong>\x20já<br>vem\x20incluída\x20automaticamente</p>','693903vrfHhn','\x20Usuário\x20do\x20Discord\x20copiado!\x0a\x0aAgora\x20é\x20só\x20colar\x20no\x20Discord\x20e\x20enviar\x20o\x20pedido\x20de\x20amizade.','snippet','https://www.youtube.com/iframe_api','<span>Erro\x20na\x20conexão.</span>','Coração\x20da\x20Montanha','Geek\x20music\x20&\x20anime','2073016aFfsCx','<p>Prices\x20subject\x20to\x20change\x20—\x20always<br>open\x20to\x20questions\x20and\x20negotiations!</p>','Nome','header','NICHO','<p>When\x20buying\x20the\x20<strong>Advanced</strong>,\x20the\x20<strong>Basic</strong>\x20is<br>automatically\x20included</p>','Erro\x20crítico\x20ao\x20carregar\x20playlist:','VER\x20PROJETOS\x20<i\x20class=\x22fa-solid\x20fa-arrow-right\x22></i>','playVideo','\x20músicas)','C\x20O\x20N\x20T\x20A\x20C\x20T','Tabela\x20de<br><span\x20class=\x22text-blue\x22>preços</span>','input','PLWnv4f4xWxqU','AIzaSyDbUNSUMbXtC2DNN-JRY1t_EPCHkyn26Mc','Estilização\x20visual\x20única\x20pro\x20clipe','img/vid_en1.jpg','mute','Subject','default','items','href','Custom\x20effects','getCurrentTime','PL0-4aKQmjua_DfwqiITIVmGufUiFzdtr9','Fade\x20effect\x20or\x20basic\x20effects','Dilemma','𓆩༺\x20Feito\x20por\x20Meiko\x20&\x20Chiyori\x20༻𓆪','add','Name','https://www.youtube.com/watch?v=ol3QSRJ2IdY','link-clip-3','pl-mute','PAUSED','url','\x20músicas\x20carregadas.\x20Atualizando\x20interface.','.video-card','Care\x20•\x20Rhythm\x20•\x20Precision','CHIYORI','\x22\x20alt=\x22','img/vid_en3.jpg','map','Message','\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22play-overlay\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<i\x20class=\x22fa-solid\x20fa-play\x22></i>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</a>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','Player','max','\x22\x20target=\x22_blank\x22\x20class=\x22video-card\x22\x20title=\x22','pl-prev','function','Sobre','Portfolio','Basic\x20Subtitle','https://www.youtube.com/watch?v=ORs1RSCscJ8','ATUAÇÃO','𓆩༺\x20Made\x20by\x20Meiko\x20&\x20Chiyori\x20༻𓆪','Pode\x20me<br>chamar\x20de\x20<span\x20class=\x22text-blue\x22>Yori</span>','Recent\x20Subtitles','img-clip-2','C\x20O\x20N\x20T\x20A\x20T\x20O','ROLE','Home','https://www.youtube.com/watch?v=jyry5KgTbL4&list=RDjyry5KgTbL4&start_radio=1','Serviços','<strong>Como\x20funciona</strong><p>Vídeos\x20acima\x20de\x20<strong>5\x20minutos</strong>:\x20+R$5\x20por<br>minuto\x20adicional</p>','Iniciando\x20carregamento\x20da\x20playlist...','PLAYING','Always\x20around','forEach','LQX\x20|\x202026','script','isMuted','img-clip-3','.nav-links\x20a','[data-i18n]','textContent','<i\x20class=\x22fa-solid\x20fa-pause\x22></i>','S\x20E\x20R\x20V\x20I\x20C\x20E\x20S','14236zsjPXX','data-i18n','sort','value','player-progress','Erro\x20ao\x20carregar\x20a\x20playlist.','MOST\x20POPULAR','log','youtube-carousel','<strong>How\x20it\x20works</strong><p>Videos\x20over\x20<strong>5\x20minutes</strong>:\x20+$3\x20per<br>additional\x20minute</p>','resourceId','link-clip-1','next-btn','MAIS\x20PEDIDA','thumbnail','innerHTML','Efeito\x20Fade\x20ou\x20Karaokê\x20básico','insertBefore','getElementById','thumbnails','img/vid3.jpg','lang-text','Legenda\x20Avançada','catch','8wlTvBN','transform','Contact','src','About','<p>Valores\x20sujeitos\x20a\x20alterações\x20—\x20sempre<br>aberto\x20para\x20dúvidas\x20e\x20negociações!</p>','VIEW\x20PROJECTS\x20<i\x20class=\x22fa-solid\x20fa-arrow-right\x22></i>','Yunotai\x20|\x202025','nextVideo','prev-btn','img/vid1.jpg','Legendas\x20recorrentes','player-cover','section,\x20div[id]','json','200','S\x20U\x20B\x20T\x20I\x20T\x20L\x20E\x20&nbsp;\x20E\x20D\x20I\x20T\x20O\x20R','DOMContentLoaded','<p><strong>Advanced\x20effects:</strong>\x20Everything\x20I\x20know<br>+\x20any\x20effect\x20you\x20want!</p>','Recurring\x20subtitles','addEventListener','&maxResults=50&pageToken=','filter','Email','\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src=\x22','img/vid2.jpg','getElementsByTagName','<p><strong>Basic\x20effects:</strong>\x20Fade\x20or\x20basic\x20<strong>Karaoke</strong></p>','pl-play','data','24190PBvHrC','855CFFPwx','NICHE','Fixeds','pauseVideo','&key=','Services','then','Let\x27s\x20work<br><span\x20class=\x22text-blue\x22>together?</span>','Send','Valor\x20fixo\x20mensal'];_0x3cc5=function(){return _0x17fb05;};return _0x3cc5();}function _0x1296(_0x4c3d2c,_0x3a8510){_0x4c3d2c=_0x4c3d2c-0xe4;const _0x3cc58c=_0x3cc5();let _0x12969f=_0x3cc58c[_0x4c3d2c];return _0x12969f;}async function carregarPlaylistInteligente(_0x5523de){const _0x3ead15=_0x230af7;try{console['log'](_0x3ead15(0x124));const _0x1fa930=await fetch(_0x5523de+'&maxResults=50'),_0x518fc2=await _0x1fa930['json']();let _0x4ad346=processarLoteEVersaSeHaMais(_0x518fc2);playlistVideos[_0x3ead15(0x18a)]>0x0&&(console[_0x3ead15(0x138)]('Fase\x201\x20completa:\x20'+playlistVideos[_0x3ead15(0x18a)]+_0x3ead15(0x107)),document['getElementById'](_0x3ead15(0x1a1))[_0x3ead15(0x12e)]=playlistVideos[0x0][_0x3ead15(0x19b)],document['getElementById'](_0x3ead15(0x155))[_0x3ead15(0x14c)]=playlistVideos[0x0][_0x3ead15(0x13f)]);while(_0x4ad346){console[_0x3ead15(0x138)]('Buscando\x20próximo\x20lote...\x20(Página\x20atualizada\x20com\x20'+playlistVideos[_0x3ead15(0x18a)]+_0x3ead15(0xed));const _0x443fdf=await fetch(_0x5523de+(_0x3ead15(0x15e)+_0x4ad346)),_0x126c42=await _0x443fdf[_0x3ead15(0x157)]();_0x4ad346=processarLoteEVersaSeHaMais(_0x126c42);}console['log']('Carregamento\x20concluído!\x20Total\x20de\x20'+playlistVideos['length']+'\x20músicas\x20carregadas\x20em\x20segundo\x20plano.'),playlistVideos[_0x3ead15(0x133)](()=>Math['random']()-0.5);}catch(_0x5f1642){console[_0x3ead15(0x175)](_0x3ead15(0xea),_0x5f1642),document[_0x3ead15(0x143)](_0x3ead15(0x1a1))[_0x3ead15(0x12e)]=_0x3ead15(0x136);}}const urlBasePlaylist=_0x230af7(0x18f)+playlistId+_0x230af7(0x16c)+apiKey;carregarPlaylistInteligente(urlBasePlaylist);function onYouTubeIframeAPIReady(){const _0x3c24b1=_0x230af7;ytPlayer=new YT[(_0x3c24b1(0x110))]('youtube-hidden-player',{'height':'200','width':_0x3c24b1(0x158),'playerVars':{'controls':0x0,'disablekb':0x1,'rel':0x0},'events':{'onReady':onPlayerReady,'onStateChange':onPlayerStateChange,'onError':onPlayerError}});}function onPlayerReady(_0x15c8e8){configurarControlesCustomizados();}function onPlayerStateChange(_0x5d38fe){const _0x4b4cf5=_0x230af7,_0x39cf58=document[_0x4b4cf5(0x143)]('pl-play'),_0x5c2cb0=document[_0x4b4cf5(0x143)]('player-vinyl');if(_0x5d38fe[_0x4b4cf5(0x166)]==YT[_0x4b4cf5(0x179)][_0x4b4cf5(0x125)])isPlaying=!![],_0x39cf58[_0x4b4cf5(0x140)]=_0x4b4cf5(0x12f),_0x5c2cb0['classList'][_0x4b4cf5(0x100)]('playing'),atualizarMetadadosFaixa(),clearInterval(updateInterval),updateInterval=setInterval(atualizarLinhaProgresso,0x1f4);else(_0x5d38fe[_0x4b4cf5(0x166)]==YT['PlayerState'][_0x4b4cf5(0x105)]||_0x5d38fe[_0x4b4cf5(0x166)]==YT[_0x4b4cf5(0x179)]['ENDED'])&&(isPlaying=![],_0x39cf58[_0x4b4cf5(0x140)]='<i\x20class=\x22fa-solid\x20fa-play\x22></i>',_0x5c2cb0[_0x4b4cf5(0x19e)]['remove'](_0x4b4cf5(0x174)),clearInterval(updateInterval));_0x5d38fe[_0x4b4cf5(0x166)]==YT['PlayerState']['BUFFERING']&&atualizarMetadadosFaixa();}function onPlayerError(_0x30501b){const _0x4a8d45=_0x230af7;console[_0x4a8d45(0x17e)]('Este\x20vídeo\x20não\x20pôde\x20ser\x20reproduzido,\x20pulando\x20para\x20o\x20próximo...',_0x30501b['data']),ytPlayer&&typeof ytPlayer['nextVideo']===_0x4a8d45(0x114)&&ytPlayer[_0x4a8d45(0x151)]();}function atualizarMetadadosFaixa(){const _0x3706e5=_0x230af7;if(!ytPlayer||typeof ytPlayer['getPlaylistIndex']!=='function')return;const _0x1fb07f=ytPlayer['getPlaylistIndex']();if(playlistVideos[_0x1fb07f]){const _0x2b8959=playlistVideos[_0x1fb07f];document['getElementById'](_0x3706e5(0x1a1))[_0x3706e5(0x12e)]=_0x2b8959[_0x3706e5(0x19b)],document[_0x3706e5(0x143)](_0x3706e5(0x155))[_0x3706e5(0x14c)]=_0x2b8959[_0x3706e5(0x13f)];}}function atualizarLinhaProgresso(){const _0x4dbdfa=_0x230af7;if(!ytPlayer||!isPlaying)return;const _0xcaf198=ytPlayer[_0x4dbdfa(0xfb)](),_0xdcc2ce=ytPlayer[_0x4dbdfa(0x1ac)](),_0x5b3913=document[_0x4dbdfa(0x143)](_0x4dbdfa(0x135));_0xdcc2ce>0x0&&(_0x5b3913[_0x4dbdfa(0x111)]=_0xdcc2ce,_0x5b3913[_0x4dbdfa(0x134)]=_0xcaf198);}function configurarControlesCustomizados(){const _0x116c5f=_0x230af7,_0x296347=document['getElementById'](_0x116c5f(0x165)),_0x1971c7=document[_0x116c5f(0x143)]('pl-next'),_0x5d10d8=document[_0x116c5f(0x143)](_0x116c5f(0x113)),_0x3cbe9f=document[_0x116c5f(0x143)](_0x116c5f(0x104)),_0x3b0788=document[_0x116c5f(0x143)](_0x116c5f(0x135));_0x296347[_0x116c5f(0x15d)]('click',()=>{const _0x280fcb=_0x116c5f;if(playlistVideos[_0x280fcb(0x18a)]===0x0)return;if(!playlistCarregadaNoPlayer){const _0x11bd02=playlistVideos[_0x280fcb(0x10d)](_0x50bbdd=>_0x50bbdd['id']);ytPlayer[_0x280fcb(0x182)](),ytPlayer[_0x280fcb(0x18d)]({'playlist':_0x11bd02}),playlistCarregadaNoPlayer=!![],isPlaying=!![],_0x296347[_0x280fcb(0x140)]=_0x280fcb(0x12f),document[_0x280fcb(0x143)](_0x280fcb(0x17a))['classList'][_0x280fcb(0x100)]('playing');return;}!isPlaying?ytPlayer[_0x280fcb(0xec)]():ytPlayer[_0x280fcb(0x16b)]();}),_0x1971c7[_0x116c5f(0x15d)](_0x116c5f(0x198),()=>{const _0x3e82ed=_0x116c5f;playlistCarregadaNoPlayer&&(ytPlayer[_0x3e82ed(0x151)](),setTimeout(atualizarMetadadosFaixa,0x190));}),_0x5d10d8[_0x116c5f(0x15d)]('click',()=>{const _0x4c344f=_0x116c5f;playlistCarregadaNoPlayer&&(ytPlayer[_0x4c344f(0x19c)](),setTimeout(atualizarMetadadosFaixa,0x190));}),_0x3cbe9f[_0x116c5f(0x15d)](_0x116c5f(0x198),()=>{const _0x467ba6=_0x116c5f;ytPlayer[_0x467ba6(0x12a)]()?(ytPlayer[_0x467ba6(0x182)](),_0x3cbe9f[_0x467ba6(0x140)]='<i\x20class=\x22fa-solid\x20fa-volume-high\x22></i>'):(ytPlayer[_0x467ba6(0xf5)](),_0x3cbe9f[_0x467ba6(0x140)]='<i\x20class=\x22fa-solid\x20fa-volume-xmark\x22></i>');}),_0x3b0788['addEventListener'](_0x116c5f(0xf0),()=>{playlistCarregadaNoPlayer&&ytPlayer['seekTo'](_0x3b0788['value'],!![]);});}const traducoes={'pt':{'navHome':_0x230af7(0x120),'navSobre':_0x230af7(0x115),'navPortfolio':_0x230af7(0x191),'navServicos':_0x230af7(0x122),'navContato':'Contato','heroLabel':_0x230af7(0x159),'heroTitle':_0x230af7(0x10a),'heroDesc':_0x230af7(0x188),'heroHighlights':_0x230af7(0x190),'heroCta':_0x230af7(0xeb),'recentesTitle':_0x230af7(0x19f),'sobreLabel':'S\x20O\x20B\x20R\x20E','sobreTitle':_0x230af7(0x11b),'aboutCard':'<p>Oii,\x20bom\x20dia,\x20boa\x20tarde\x20ou\x20uma\x20boa\x20noite!\x20Podem\x20me\x20chamar\x20de\x20<strong>Yori</strong>,\x20ou\x20quaisquer\x20apelidos\x20e\x20pronomes\x20que\x20preferirem.<br>Gosto\x20de\x20várias\x20coisinhas\x20—\x20se\x20quiser\x20conversar,\x20pode\x20chamar!</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>Faço\x20<strong>legendas</strong>\x20personalizadas\x20no\x20<strong>YouTube</strong>,\x20com\x20bastante\x20carinho.</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>Costumo\x20ficar\x20mais\x20ativo\x20no\x20<strong>Discord</strong></p>','atuacaoLabel':_0x230af7(0x119),'nichoLabel':_0x230af7(0xe8),'nichoValue':'Música\x20geek\x20&\x20anime','sempreAqui':'Sempre\x20por\x20aqui','portTitle':_0x230af7(0x191),'portDesc':_0x230af7(0x18e),'portClip1Title':_0x230af7(0x173),'portClip1Info':_0x230af7(0x150),'portClip2Title':_0x230af7(0x185),'portClip2Info':_0x230af7(0x128),'portClip3Title':_0x230af7(0x1b4),'portClip3Info':_0x230af7(0x17d),'servLabel':_0x230af7(0x1a2),'servTitle':_0x230af7(0xef),'regra1':_0x230af7(0x123),'regra2':_0x230af7(0x176),'regra3':'<p><strong>Efeitos\x20avançados:</strong>\x20Todos\x20que\x20sei<br>+\x20qualquer\x20um\x20que\x20você\x20quiser!</p>','regra4':_0x230af7(0x1ae),'regra5':_0x230af7(0x14e),'cardBasicaTitle':_0x230af7(0x189),'priceBasica':_0x230af7(0x18c),'cardBasicaItem1':'Legenda\x20cronometrada','cardBasicaItem2':_0x230af7(0x141),'cardAvancadaTitle':_0x230af7(0x147),'badgeDestaque':_0x230af7(0x13e),'priceAvancada':'R$\x2050','cardAvancadaItem2':_0x230af7(0x17f),'cardAvancadaItem3':_0x230af7(0xf3),'cardFixoTitle':_0x230af7(0x180),'priceFixo':_0x230af7(0x19d),'cardFixoItem1':_0x230af7(0x186),'cardFixoItem2':_0x230af7(0x154),'cardFixoItem3':_0x230af7(0x171),'contLabel':_0x230af7(0x11e),'contTitle':'Vamos\x20trabalhar<br><span\x20class=\x22text-blue\x22>juntos?</span>','contText':'Tem\x20um\x20projeto\x20em\x20mente?\x20Me\x20manda\x20uma\x20mensagem\x20e\x20vamos\x20conversar\x20sobre\x20como\x20posso\x20te\x20ajudar!','labelNome':_0x230af7(0xe6),'labelEmail':_0x230af7(0x160),'labelAssunto':'Assunto','labelMensagem':'Mensagem','btnEnviar':'Enviar','footerContent':_0x230af7(0xff)},'en':{'navHome':_0x230af7(0x120),'navSobre':_0x230af7(0x14d),'navPortfolio':_0x230af7(0x116),'navServicos':_0x230af7(0x16d),'navContato':_0x230af7(0x14b),'heroLabel':'S\x20U\x20B\x20T\x20I\x20T\x20L\x20E\x20&nbsp;\x20E\x20D\x20I\x20T\x20O\x20R','heroTitle':_0x230af7(0x10a),'heroDesc':_0x230af7(0x19a),'heroHighlights':_0x230af7(0x109),'heroCta':_0x230af7(0x14f),'recentesTitle':_0x230af7(0x11c),'sobreLabel':'A\x20B\x20O\x20U\x20T','sobreTitle':_0x230af7(0x1a6),'aboutCard':'<p>Hi,\x20good\x20morning,\x20afternoon,\x20or\x20evening!\x20You\x20can\x20call\x20me\x20<strong>Chiyo</strong>,\x20or\x20any\x20nicknames\x20and\x20pronouns\x20you\x20prefer.<br>I\x20like\x20a\x20lot\x20of\x20things\x20—\x20if\x20you\x20want\x20to\x20chat,\x20feel\x20free\x20to\x20reach\x20out!</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>I\x20make\x20custom\x20<strong>subtitles</strong>\x20on\x20<strong>YouTube</strong>,\x20with\x20a\x20lot\x20of\x20care.</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>I\x27m\x20usually\x20most\x20active\x20on\x20<strong>Discord</strong></p>','atuacaoLabel':_0x230af7(0x11f),'nichoLabel':_0x230af7(0x169),'nichoValue':_0x230af7(0x1b5),'sempreAqui':_0x230af7(0x126),'portTitle':'Portfolio','portDesc':'Some\x20examples\x20of\x20music\x20videos\x20I\x27ve\x20subtitled\x20—\x20click\x20to\x20watch.','portClip1Title':_0x230af7(0x199),'portClip1Info':'rachie\x20🎀💌\x20|\x202026','portClip2Title':_0x230af7(0xfe),'portClip2Info':_0x230af7(0x172),'portClip3Title':'Montblanc','portClip3Info':_0x230af7(0x172),'servLabel':_0x230af7(0x130),'servTitle':_0x230af7(0x178),'regra1':_0x230af7(0x13a),'regra2':_0x230af7(0x164),'regra3':_0x230af7(0x15b),'regra4':_0x230af7(0xe9),'regra5':_0x230af7(0xe5),'cardBasicaTitle':_0x230af7(0x117),'priceBasica':'$\x2015','cardBasicaItem1':'Timed\x20subtitles','cardBasicaItem2':_0x230af7(0xfd),'cardAvancadaTitle':'Advanced\x20Subtitle','badgeDestaque':_0x230af7(0x137),'priceAvancada':'$\x2050','cardAvancadaItem2':_0x230af7(0xfa),'cardAvancadaItem3':'Unique\x20visual\x20styling\x20for\x20the\x20video','cardFixoTitle':_0x230af7(0x16a),'priceFixo':'$\x2030','cardFixoItem1':'Fixed\x20services\x20for\x20channels','cardFixoItem2':_0x230af7(0x15c),'cardFixoItem3':'Fixed\x20monthly\x20fee','contLabel':_0x230af7(0xee),'contTitle':_0x230af7(0x16f),'contText':'Have\x20a\x20project\x20in\x20mind?\x20Drop\x20me\x20a\x20message\x20and\x20let\x27s\x20talk\x20about\x20how\x20I\x20can\x20help\x20you!','labelNome':_0x230af7(0x101),'labelEmail':_0x230af7(0x160),'labelAssunto':_0x230af7(0xf6),'labelMensagem':_0x230af7(0x10e),'btnEnviar':_0x230af7(0x170),'footerContent':_0x230af7(0x11a)}};let idiomaAtual='pt';const langBtn=document['getElementById'](_0x230af7(0x1ad)),langText=document[_0x230af7(0x143)](_0x230af7(0x146));function alternarIdioma(){const _0x53b101=_0x230af7;idiomaAtual=idiomaAtual==='pt'?'en':'pt',langText[_0x53b101(0x12e)]=idiomaAtual['toUpperCase'](),document[_0x53b101(0x1a8)](_0x53b101(0x12d))[_0x53b101(0x127)](_0x31306c=>{const _0x54bc1d=_0x53b101,_0x3298dd=_0x31306c[_0x54bc1d(0x181)](_0x54bc1d(0x132));traducoes[idiomaAtual][_0x3298dd]&&(_0x31306c['innerHTML']=traducoes[idiomaAtual][_0x3298dd]);}),idiomaAtual==='en'?(document[_0x53b101(0x143)](_0x53b101(0x1ab))[_0x53b101(0x14c)]=_0x53b101(0xf4),document[_0x53b101(0x143)]('link-clip-1')[_0x53b101(0xf9)]='https://www.youtube.com/watch?v=3pj1ECZ2w3A',document[_0x53b101(0x143)](_0x53b101(0x11d))[_0x53b101(0x14c)]='img/vid_en2.jpg',document[_0x53b101(0x143)]('link-clip-2')[_0x53b101(0xf9)]='https://www.youtube.com/watch?v=6SSusIAJofs',document[_0x53b101(0x143)](_0x53b101(0x12b))[_0x53b101(0x14c)]=_0x53b101(0x10c),document[_0x53b101(0x143)](_0x53b101(0x103))[_0x53b101(0xf9)]=_0x53b101(0x1a7)):(document[_0x53b101(0x143)](_0x53b101(0x1ab))[_0x53b101(0x14c)]=_0x53b101(0x153),document[_0x53b101(0x143)](_0x53b101(0x13c))[_0x53b101(0xf9)]=_0x53b101(0x121),document[_0x53b101(0x143)](_0x53b101(0x11d))[_0x53b101(0x14c)]=_0x53b101(0x162),document[_0x53b101(0x143)](_0x53b101(0x187))[_0x53b101(0xf9)]=_0x53b101(0x118),document['getElementById'](_0x53b101(0x12b))[_0x53b101(0x14c)]=_0x53b101(0x145),document[_0x53b101(0x143)]('link-clip-3')['href']=_0x53b101(0x102));}langBtn[_0x230af7(0x15d)](_0x230af7(0x198),alternarIdioma);const API_KEY='AIzaSyDbUNSUMbXtC2DNN-JRY1t_EPCHkyn26Mc',PLAYLIST_ID=_0x230af7(0xfc),MAX_RESULTS=0x7,url='https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults='+MAX_RESULTS+_0x230af7(0x1a9)+PLAYLIST_ID+'&key='+API_KEY;let currentIndex=0x0;fetch(url)[_0x230af7(0x16e)](_0x50aaad=>_0x50aaad[_0x230af7(0x157)]())[_0x230af7(0x16e)](_0x32d995=>{const _0x55cb86=_0x230af7,_0x53a4ce=document[_0x55cb86(0x143)](_0x55cb86(0x139));_0x53a4ce[_0x55cb86(0x140)]='';if(_0x32d995['error']){_0x53a4ce[_0x55cb86(0x140)]=_0x55cb86(0x183);return;}_0x32d995['items'][_0x55cb86(0x127)](_0x2bfd95=>{const _0x4132e1=_0x55cb86,_0x2b4053=_0x2bfd95[_0x4132e1(0x1b1)][_0x4132e1(0x13b)]['videoId'],_0x2f54b3=_0x2bfd95[_0x4132e1(0x1b1)][_0x4132e1(0x19b)],_0x225c28=_0x2bfd95[_0x4132e1(0x1b1)]['thumbnails']['high']?_0x2bfd95[_0x4132e1(0x1b1)][_0x4132e1(0x144)]['high'][_0x4132e1(0x106)]:_0x2bfd95['snippet'][_0x4132e1(0x144)]['default']['url'],_0x20510e='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<a\x20href=\x22https://www.youtube.com/watch?v='+_0x2b4053+_0x4132e1(0x112)+_0x2f54b3+_0x4132e1(0x161)+_0x225c28+_0x4132e1(0x10b)+_0x2f54b3+_0x4132e1(0x10f);_0x53a4ce[_0x4132e1(0x140)]+=_0x20510e;}),iniciarSlider();})[_0x230af7(0x148)](_0x3d9f26=>{const _0x554eec=_0x230af7;document[_0x554eec(0x143)](_0x554eec(0x139))[_0x554eec(0x140)]=_0x554eec(0x1b3);});function iniciarSlider(){const _0x20c110=_0x230af7,_0xa09188=document[_0x20c110(0x143)](_0x20c110(0x152)),_0x3abee1=document[_0x20c110(0x143)](_0x20c110(0x13d)),_0x3bdae0=document['getElementById'](_0x20c110(0x139)),_0x3d68cb=document[_0x20c110(0x1a8)](_0x20c110(0x108))['length'];function _0x1ae397(){const _0x2d70ba=_0x20c110;_0x3bdae0[_0x2d70ba(0x192)][_0x2d70ba(0x14a)]=_0x2d70ba(0x17c)+currentIndex*0x64+'%)';}_0xa09188[_0x20c110(0x15d)](_0x20c110(0x198),()=>{currentIndex>0x0?currentIndex--:currentIndex=_0x3d68cb-0x1,_0x1ae397();}),_0x3abee1[_0x20c110(0x15d)](_0x20c110(0x198),()=>{currentIndex<_0x3d68cb-0x1?currentIndex++:currentIndex=0x0,_0x1ae397();});}document[_0x230af7(0x15d)](_0x230af7(0x15a),()=>{const _0x91937e=_0x230af7,_0x5722a2=document['querySelector'](_0x91937e(0xe7)),_0x5f2b79=document[_0x91937e(0x1a8)](_0x91937e(0x12c)),_0xcd366c=document[_0x91937e(0x1a8)](_0x91937e(0x156));function _0x5c6f83(){const _0x197f07=_0x91937e;window['scrollY']>0x14?_0x5722a2[_0x197f07(0x19e)][_0x197f07(0x100)](_0x197f07(0x193)):_0x5722a2[_0x197f07(0x19e)]['remove']('navbar-bg-blur');}function _0x3645bb(){const _0x40da74=_0x91937e;let _0x56a847=window['scrollY']+0x78;_0xcd366c[_0x40da74(0x127)](_0x595770=>{const _0x2930ff=_0x40da74,_0x3c6944=_0x595770[_0x2930ff(0x195)],_0x741ba7=_0x595770[_0x2930ff(0x1a5)],_0x210206=_0x595770['getAttribute']('id');_0x56a847>=_0x3c6944&&_0x56a847<_0x3c6944+_0x741ba7&&_0x5f2b79[_0x2930ff(0x127)](_0x3addba=>{const _0x4bf884=_0x2930ff;_0x3addba[_0x4bf884(0x19e)]['remove'](_0x4bf884(0x177)),_0x3addba[_0x4bf884(0x181)](_0x4bf884(0xf9))==='#'+_0x210206&&_0x3addba['classList'][_0x4bf884(0x100)](_0x4bf884(0x177));});});}window['addEventListener'](_0x91937e(0x1a4),()=>{_0x5c6f83(),_0x3645bb();}),_0x5c6f83();});
+// Copiar discord
+function copiarDiscord() {
+
+    navigator.clipboard.writeText("r3dr0")
+        .then(() => {
+            alert(" Usuário do Discord copiado!\n\nAgora é só colar no Discord e enviar o pedido de amizade.");
+        })
+        .catch(() => {
+            alert("Não foi possível copiar automaticamente.\n\nMeu usuário é: r3dr0");
+        });
+
+}
+
+//Player Flutuante
+const tag = document.createElement('script');
+tag.src = "https://www.youtube.com/iframe_api";
+const firstScriptTag = document.getElementsByTagName('script')[0];
+firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+let ytPlayer;
+let playlistVideos = [];
+let isPlaying = false;
+let updateInterval;
+let playlistCarregadaNoPlayer = false;
+
+const apiKey = 'AIzaSyDbUNSUMbXtC2DNN-JRY1t_EPCHkyn26Mc'; 
+const playlistId = 'PLWnv4f4xWxqU';
+const playlistUrl = `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=50&playlistId=${playlistId}&key=${apiKey}`;
+
+fetch(playlistUrl)
+
+function processarLoteEVersaSeHaMais(data) {
+    if (data.items && data.items.length > 0) {
+        const novosVideos = data.items
+            .filter(item => item.snippet && item.snippet.resourceId && item.snippet.title !== "Deleted video")
+            .map(item => ({
+                id: item.snippet.resourceId.videoId,
+                title: item.snippet.title,
+
+                thumbnail: (item.snippet.thumbnails && item.snippet.thumbnails.high) ? item.snippet.thumbnails.high.url :
+                           ((item.snippet.thumbnails && item.snippet.thumbnails.default) ? item.snippet.thumbnails.default.url : '')
+            }));
+        
+        playlistVideos = playlistVideos.concat(novosVideos);
+        return data.nextPageToken || null;
+    }
+    return null;
+}
+
+async function carregarPlaylistInteligente(urlBase) {
+    try {
+        console.log("Iniciando carregamento da playlist...");
+        
+        const primeiraResposta = await fetch(urlBase + `&maxResults=50`);
+        const primeiroDado = await primeiraResposta.json();
+        
+        let proximoToken = processarLoteEVersaSeHaMais(primeiroDado);
+        
+        if (playlistVideos.length > 0) {
+            console.log(`Fase 1 completa: ${playlistVideos.length} músicas carregadas. Atualizando interface.`);
+            
+            document.getElementById('player-title').textContent = playlistVideos[0].title;
+            document.getElementById('player-cover').src = playlistVideos[0].thumbnail;
+            
+        }
+
+        while (proximoToken) {
+            console.log(`Buscando próximo lote... (Página atualizada com ${playlistVideos.length} músicas)`);
+            const respostaLote = await fetch(urlBase + `&maxResults=50&pageToken=${proximoToken}`);
+            const dadoLote = await respostaLote.json();
+            proximoToken = processarLoteEVersaSeHaMais(dadoLote);
+        }
+
+        console.log(`Carregamento concluído! Total de ${playlistVideos.length} músicas carregadas em segundo plano.`);
+        
+        playlistVideos.sort(() => Math.random() - 0.5);
+    
+        
+    } catch (err) {
+        console.error("Erro crítico ao carregar playlist:", err);
+        document.getElementById('player-title').textContent = "Erro ao carregar a playlist.";
+    }
+}
+
+const urlBasePlaylist = `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=${playlistId}&key=${apiKey}`;
+carregarPlaylistInteligente(urlBasePlaylist);
+
+function onYouTubeIframeAPIReady() {
+    ytPlayer = new YT.Player('youtube-hidden-player', {
+        height: '200',
+        width: '200',
+        playerVars: {
+            'controls': 0,
+            'disablekb': 1,
+            'rel': 0
+        },
+        events: {
+            'onReady': onPlayerReady,
+            'onStateChange': onPlayerStateChange,
+            'onError': onPlayerError
+        }
+    });
+}
+
+function onPlayerReady(event) {
+    configurarControlesCustomizados();
+}
+
+function onPlayerStateChange(event) {
+    const playBtn = document.getElementById('pl-play');
+    const vinyl = document.getElementById('player-vinyl');
+
+    if (event.data == YT.PlayerState.PLAYING) {
+        isPlaying = true;
+        playBtn.innerHTML = '<i class="fa-solid fa-pause"></i>';
+        vinyl.classList.add('playing');
+        
+        atualizarMetadadosFaixa();
+        
+        clearInterval(updateInterval);
+        updateInterval = setInterval(atualizarLinhaProgresso, 500);
+    } else if (event.data == YT.PlayerState.PAUSED || event.data == YT.PlayerState.ENDED) {
+        isPlaying = false;
+        playBtn.innerHTML = '<i class="fa-solid fa-play"></i>';
+        vinyl.classList.remove('playing');
+        clearInterval(updateInterval);
+    }
+    
+    if (event.data == YT.PlayerState.BUFFERING) {
+        atualizarMetadadosFaixa();
+    }
+}
+
+function onPlayerError(event) {
+    console.warn("Este vídeo não pôde ser reproduzido, pulando para o próximo...", event.data);
+    if (ytPlayer && typeof ytPlayer.nextVideo === 'function') {
+        ytPlayer.nextVideo();
+    }
+}
+
+function atualizarMetadadosFaixa() {
+    if (!ytPlayer || typeof ytPlayer.getPlaylistIndex !== 'function') return;
+    
+    const currentIndex = ytPlayer.getPlaylistIndex();
+    if (playlistVideos[currentIndex]) {
+        const track = playlistVideos[currentIndex];
+        document.getElementById('player-title').textContent = track.title;
+        document.getElementById('player-cover').src = track.thumbnail;
+    }
+}
+
+function atualizarLinhaProgresso() {
+    if (!ytPlayer || !isPlaying) return;
+    const currentTime = ytPlayer.getCurrentTime();
+    const duration = ytPlayer.getDuration();
+    const progressBar = document.getElementById('player-progress');
+    
+    if (duration > 0) {
+        progressBar.max = duration;
+        progressBar.value = currentTime;
+    }
+}
+
+function configurarControlesCustomizados() {
+    const playBtn = document.getElementById('pl-play');
+    const nextBtn = document.getElementById('pl-next');
+    const prevBtn = document.getElementById('pl-prev');
+    const muteBtn = document.getElementById('pl-mute');
+    const progressBar = document.getElementById('player-progress');
+
+    playBtn.addEventListener('click', () => {
+        if (playlistVideos.length === 0) return;
+
+        if (!playlistCarregadaNoPlayer) {
+            const idsLista = playlistVideos.map(v => v.id);
+            ytPlayer.unMute();
+            ytPlayer.loadPlaylist({
+                playlist: idsLista
+            });
+            playlistCarregadaNoPlayer = true;
+            isPlaying = true;
+            
+            playBtn.innerHTML = '<i class="fa-solid fa-pause"></i>';
+            document.getElementById('player-vinyl').classList.add('playing');
+            return;
+        }
+
+        if (!isPlaying) {
+            ytPlayer.playVideo();
+        } else {
+            ytPlayer.pauseVideo();
+        }
+    });
+
+    nextBtn.addEventListener('click', () => {
+        if (playlistCarregadaNoPlayer) {
+            ytPlayer.nextVideo();
+            setTimeout(atualizarMetadadosFaixa, 400);
+        }
+    });
+    
+    prevBtn.addEventListener('click', () => {
+        if (playlistCarregadaNoPlayer) {
+            ytPlayer.previousVideo();
+            setTimeout(atualizarMetadadosFaixa, 400);
+        }
+    });
+
+    muteBtn.addEventListener('click', () => {
+        if (ytPlayer.isMuted()) {
+            ytPlayer.unMute();
+            muteBtn.innerHTML = '<i class="fa-solid fa-volume-high"></i>';
+        } else {
+            ytPlayer.mute();
+            muteBtn.innerHTML = '<i class="fa-solid fa-volume-xmark"></i>';
+        }
+    });
+
+    progressBar.addEventListener('input', () => {
+        if (playlistCarregadaNoPlayer) {
+            ytPlayer.seekTo(progressBar.value, true);
+        }
+    });
+}
+
+
+//Tradução
+const traducoes = {
+    pt: {
+        navHome: "Home",
+        navSobre: "Sobre",
+        navPortfolio: "Portfólio",
+        navServicos: "Serviços",
+        navContato: "Contato",
+        
+        // Hero
+        heroLabel: "S U B T I T L E &nbsp; E D I T O R",
+        heroTitle: "CHIYORI",
+        heroDesc: "MÚSICA GEEK, TRANSCREVIDA<br>COM CARINHO",
+        heroHighlights: "Carinho • Ritmo • Precisão",
+        heroCta: 'VER PROJETOS <i class="fa-solid fa-arrow-right"></i>',
+        recentesTitle: "Legendas Recentes",
+        
+        // Sobre
+        sobreLabel: "S O B R E",
+        sobreTitle: 'Pode me<br>chamar de <span class="text-blue">Yori</span>',
+        aboutCard: `<p>Oii, bom dia, boa tarde ou uma boa noite! Podem me chamar de <strong>Yori</strong>, ou quaisquer apelidos e pronomes que preferirem.<br>Gosto de várias coisinhas — se quiser conversar, pode chamar!</p>
+                    <p>Faço <strong>legendas</strong> personalizadas no <strong>YouTube</strong>, com bastante carinho.</p>
+                    <p>Costumo ficar mais ativo no <strong>Discord</strong></p>`,
+        atuacaoLabel: "ATUAÇÃO",
+        nichoLabel: "NICHO",
+        nichoValue: "Música geek & anime",
+        sempreAqui: "Sempre por aqui",
+        
+        // Portfólio
+        portTitle: "Portfólio",
+        portDesc: "Alguns exemplos de clipes que já legendei. <a href="https://www.youtube.com/playlist?list=PL0-4aKQmjua_DfwqiITIVmGufUiFzdtr9" target="_blank" class="link-destaque">Clique aqui</a> para acessar meu portfólio completo.',
+        portClip1Title: "Código Corrompido",
+        portClip1Info: "Yunotai | 2025",
+        portClip2Title: "Rota Genocida",
+        portClip2Info: "LQX | 2026",
+        portClip3Title: "Coração da Montanha",
+        portClip3Info: "Komorii | 2026",
+        
+        // Serviços
+        servLabel: "S E R V I Ç O S",
+        servTitle: 'Tabela de<br><span class="text-blue">preços</span>',
+        regra1: "<strong>Como funciona</strong><p>Vídeos acima de <strong>5 minutos</strong>: +R$5 por<br>minuto adicional</p>",
+        regra2: "<p><strong>Efeitos básicos:</strong> Fade ou <strong>Karaokê</strong></p>",
+        regra3: "<p><strong>Efeitos avançados:</strong> Todos que sei<br>+ qualquer um que você quiser!</p>",
+        regra4: "<p>Na compra da <strong>Avançada</strong>, a <strong>Básica</strong> já<br>vem incluída automaticamente</p>",
+        regra5: "<p>Valores sujeitos a alterações — sempre<br>aberto para dúvidas e negociações!</p>",
+        
+        // Preços e Conteúdos
+        cardBasicaTitle: "Legenda Básica",
+        priceBasica: "R$ 20",
+        cardBasicaItem1: "Legenda cronometrada",
+        cardBasicaItem2: "Efeito Fade ou Karaokê básico",
+        
+        cardAvancadaTitle: "Legenda Avançada",
+        badgeDestaque: "MAIS PEDIDA",
+        priceAvancada: "R$ 50",
+        cardAvancadaItem2: "Efeitos personalizados",
+        cardAvancadaItem3: "Estilização visual única pro clipe",
+        
+        cardFixoTitle: "Fixo",
+        priceFixo: "R$ 35",
+        cardFixoItem1: "Serviços fixo para canal",
+        cardFixoItem2: "Legendas recorrentes",
+        cardFixoItem3: "Valor fixo mensal",
+        
+        // Contato
+        contLabel: "C O N T A T O",
+        contTitle: 'Vamos trabalhar<br><span class="text-blue">juntos?</span>',
+        contText: "Tem um projeto em mente? Me manda uma mensagem e vamos conversar sobre como posso te ajudar!",
+        labelNome: "Nome",
+        labelEmail: "Email",
+        labelAssunto: "Assunto",
+        labelMensagem: "Mensagem",
+        btnEnviar: "Enviar",
+        // footer
+        footerContent: "𓆩༺ Feito por Meiko & Chiyori ༻𓆪"
+    },
+    en: {
+        navHome: "Home",
+        navSobre: "About",
+        navPortfolio: "Portfolio",
+        navServicos: "Services",
+        navContato: "Contact",
+        
+        // Hero
+        heroLabel: "S U B T I T L E &nbsp; E D I T O R",
+        heroTitle: "CHIYORI",
+        heroDesc: "GEEK MUSIC, TRANSCRIBED<br>WITH CARE",
+        heroHighlights: "Care • Rhythm • Precision",
+        heroCta: 'VIEW PROJECTS <i class="fa-solid fa-arrow-right"></i>',
+        recentesTitle: "Recent Subtitles",
+        
+        // Sobre
+        sobreLabel: "A B O U T",
+        sobreTitle: 'You can<br>call me <span class="text-blue">Chiyo</span>',
+        aboutCard: `<p>Hi, good morning, afternoon, or evening! You can call me <strong>Chiyo</strong>, or any nicknames and pronouns you prefer.<br>I like a lot of things — if you want to chat, feel free to reach out!</p>
+                    <p>I make custom <strong>subtitles</strong> on <strong>YouTube</strong>, with a lot of care.</p>
+                    <p>I\'m usually most active on <strong>Discord</strong></p>`,
+        atuacaoLabel: "ROLE",
+        nichoLabel: "NICHE",
+        nichoValue: "Geek music & anime",
+        sempreAqui: "Always around",
+        
+        // Portfólio
+        portTitle: "Portfolio",
+        portDesc: "Some examples of music videos I've subtitled <a href="https://www.youtube.com/playlist?list=PL0-4aKQmjua_DfwqiITIVmGufUiFzdtr9" target="_blank" class="link-destaque">Click here</a> to access the full portfolio.',
+        portClip1Title: "My way, So What!",
+        portClip1Info: "hiroki | 2026",
+        portClip2Title: "Dilemma",
+        portClip2Info: "rachie 🎀💌 | 2026",
+        portClip3Title: "Do that again",
+        portClip3Info: "Teirrel | 2026",
+        
+        // Serviços
+        servLabel: "S E R V I C E S",
+        servTitle: 'Pricing<br><span class="text-blue">Table</span>',
+        regra1: "<strong>How it works</strong><p>Videos over <strong>5 minutes</strong>: +$3 per<br>additional minute</p>",
+        regra2: "<p><strong>Basic effects:</strong> Fade or basic <strong>Karaoke</strong></p>",
+        regra3: "<p><strong>Advanced effects:</strong> Everything I know<br>+ any effect you want!</p>",
+        regra4: "<p>When buying the <strong>Advanced</strong>, the <strong>Basic</strong> is<br>automatically included</p>",
+        regra5: "<p>Prices subject to change — always<br>open to questions and negotiations!</p>",
+        
+        // Preços e Conteúdos
+        cardBasicaTitle: "Basic Subtitle",
+        priceBasica: "$ 5",
+        cardBasicaItem1: "Timed subtitles",
+        cardBasicaItem2: "Fade effect or basic effects",
+        
+        cardAvancadaTitle: "Advanced Subtitle",
+        badgeDestaque: "MOST POPULAR",
+        priceAvancada: "$ 25",
+        cardAvancadaItem2: "Custom effects",
+        cardAvancadaItem3: "Unique visual styling for the video",
+        
+        cardFixoTitle: "Fixeds",
+        priceFixo: "$ 15",
+        cardFixoItem1: "Fixed services for channels",
+        cardFixoItem2: "Recurring subtitles",
+        cardFixoItem3: "ㅤ",
+        
+        // Contato
+        contLabel: "C O N T A C T",
+        contTitle: 'Let\'s work<br><span class="text-blue">together?</span>',
+        contText: "Have a project in mind? Drop me a message and let's talk about how I can help you!",
+        labelNome: "Name",
+        labelEmail: "Email",
+        labelAssunto: "Subject",
+        labelMensagem: "Message",
+        btnEnviar: "Send",
+        // footer
+        footerContent: "𓆩༺ Made by Meiko & Chiyori ༻𓆪"
+    }
+};
+
+let idiomaAtual = 'pt';
+const langBtn = document.getElementById('lang-btn');
+const langText = document.getElementById('lang-text');
+
+function alternarIdioma() {
+    idiomaAtual = idiomaAtual === 'pt' ? 'en' : 'pt';
+    
+    langText.textContent = idiomaAtual.toUpperCase();
+
+    document.querySelectorAll('[data-i18n]').forEach(elemento => {
+        const chave = elemento.getAttribute('data-i18n');
+        if (traducoes[idiomaAtual][chave]) {
+            elemento.innerHTML = traducoes[idiomaAtual][chave];
+        }
+    });
+
+    if (idiomaAtual === 'en') {
+        // Card 1 gringo
+        document.getElementById('img-clip-1').src = 'img/vid_en1.jpg';
+        document.getElementById('link-clip-1').href = 'https://www.youtube.com/watch?v=fyvfjx7MHLw';
+        
+        // Card 2 gringo
+        document.getElementById('img-clip-2').src = 'img/vid_en2.jpg'; 
+        document.getElementById('link-clip-2').href = 'https://www.youtube.com/watch?v=6SSusIAJofs';
+        
+        // Card 3 gringo
+        document.getElementById('img-clip-3').src = 'img/vid_en3.jpg'; 
+        document.getElementById('link-clip-3').href = 'https://www.youtube.com/watch?v=jK-tt-3XJ7c';
+    } else {
+        // Card 1
+        document.getElementById('img-clip-1').src = 'img/vid1.jpg';
+        document.getElementById('link-clip-1').href = 'https://www.youtube.com/watch?v=jyry5KgTbL4&list=RDjyry5KgTbL4&start_radio=1';
+        
+        // Card 2
+        document.getElementById('img-clip-2').src = 'img/vid2.jpg';
+        document.getElementById('link-clip-2').href = 'https://www.youtube.com/watch?v=ORs1RSCscJ8';
+        
+        // Card 3
+        document.getElementById('img-clip-3').src = 'img/vid3.jpg';
+        document.getElementById('link-clip-3').href = 'https://www.youtube.com/watch?v=ol3QSRJ2IdY';
+    }
+
+}
+
+langBtn.addEventListener('click', alternarIdioma);
+
+
+// carrosel
+    const API_KEY = 'AIzaSyDbUNSUMbXtC2DNN-JRY1t_EPCHkyn26Mc'; 
+    const PLAYLIST_ID = 'PL0-4aKQmjua_DfwqiITIVmGufUiFzdtr9'; 
+    const MAX_RESULTS = 7;
+
+    const url = `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=${MAX_RESULTS}&playlistId=${PLAYLIST_ID}&key=${API_KEY}`;
+
+    let currentIndex = 0;
+
+    fetch(url)
+        .then(response => response.json())
+        .then(data => {
+            const carousel = document.getElementById('youtube-carousel');
+            carousel.innerHTML = ''; 
+
+            if(data.error) {
+                carousel.innerHTML = '<span style="color: red;">Erro ao carregar vídeos.</span>';
+                return;
+            }
+
+            data.items.forEach(item => {
+                const videoId = item.snippet.resourceId.videoId;
+                const title = item.snippet.title;
+                const thumbnailUrl = item.snippet.thumbnails.high ? item.snippet.thumbnails.high.url : item.snippet.thumbnails.default.url;
+
+                const videoHTML = `
+                    <a href="https://www.youtube.com/watch?v=${videoId}" target="_blank" class="video-card" title="${title}">
+                        <img src="${thumbnailUrl}" alt="${title}">
+                        <div class="play-overlay">
+                            <i class="fa-solid fa-play"></i>
+                        </div>
+                    </a>
+                `;
+                carousel.innerHTML += videoHTML;
+            });
+
+            iniciarSlider();
+        })
+        .catch(error => {
+            document.getElementById('youtube-carousel').innerHTML = '<span>Erro na conexão.</span>';
+        });
+
+    function iniciarSlider() {
+        const prevBtn = document.getElementById('prev-btn');
+        const nextBtn = document.getElementById('next-btn');
+        const carousel = document.getElementById('youtube-carousel');
+        const totalItems = document.querySelectorAll('.video-card').length;
+
+        function atualizarPosicao() {
+            carousel.style.transform = `translateX(-${currentIndex * 100}%)`;
+        }
+
+        prevBtn.addEventListener('click', () => {
+            if (currentIndex > 0) {
+                currentIndex--;
+            } else {
+                currentIndex = totalItems - 1;
+            }
+            atualizarPosicao();
+        });
+
+        nextBtn.addEventListener('click', () => {
+            if (currentIndex < totalItems - 1) {
+                currentIndex++;
+            } else {
+                currentIndex = 0;
+            }
+            atualizarPosicao();
+        });
+    }
+
+
+//Scroll
+document.addEventListener('DOMContentLoaded', () => {
+    const header = document.querySelector('header');
+    const navLinks = document.querySelectorAll('.nav-links a');
+    const sections = document.querySelectorAll('section, div[id]');
+
+    function checkScroll() {
+        if (window.scrollY > 20) {
+            header.classList.add('navbar-bg-blur');
+        } else {
+            header.classList.remove('navbar-bg-blur');
+        }
+    }
+
+    function activateMenuOnScroll() {
+        let scrollPosition = window.scrollY + 120;
+
+        sections.forEach(section => {
+            const sectionTop = section.offsetTop;
+            const sectionHeight = section.offsetHeight;
+            const sectionId = section.getAttribute('id');
+
+            if (scrollPosition >= sectionTop && scrollPosition < sectionTop + sectionHeight) {
+                navLinks.forEach(link => {
+                    link.classList.remove('active');
+                    if (link.getAttribute('href') === `#${sectionId}`) {
+                        link.classList.add('active');
+                    }
+                });
+            }
+        });
+    }
+
+    window.addEventListener('scroll', () => {
+        checkScroll();
+        activateMenuOnScroll();
+    });
+    
+    checkScroll();
+});
