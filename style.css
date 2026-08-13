@@ -822,6 +822,18 @@ a.portfolio-card {
 }
 
 /* coluna esquerda: textos */
+
+.link-destaque {
+    color: #3b82f6;
+    text-decoration: underline;
+    font-weight: 600;
+    transition: opacity 0.2s ease;
+}
+
+.link-destaque:hover {
+    opacity: 0.8;
+}
+
 .servicos-left {
     align-items: flex-start;
     padding-right: 30px;
